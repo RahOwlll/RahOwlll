@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RahOwlll
 - 👀 I’m interested in Coding💻, Reading📖 and Watching Animes🐷.
-- 🌱 I’m currently learning Discrete Mathematics and DSA.
-- 💞️ I’m looking to collaborate on Nothing.
+- 🌱 I’m currently learning JavaScript and Data structre & Algorithms.
+- �🙏🏻 I’m looking to collaborate on Nothing.
 - 📫 How to reach me Insta: @just__some_letters, Twitter: [@RahOwlll](https://twitter.com/RahOwlll) , Quora: [Quora Profile](https://www.quora.com/profile/Rahul-Chauhan-598)
 
 <!---
